@@ -1,0 +1,7 @@
+{
+  "name": "TukTuk Go",
+  "description": "A modern ride-hailing app specifically for TukTuks using Supabase backend.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Cache folders
+node_modules/.cache/
+
+# Build folder
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+node_modules/
+node_modules/

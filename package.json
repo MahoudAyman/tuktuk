@@ -1,0 +1,69 @@
+{
+  
+  "name": "tuktuk-go",
+  
+  "version": "1.0.0",
+  
+  "private": true,
+  
+  "type": "module",
+  
+  "homepage": "https://mahoudayman.github.io/tuktuk",
+  
+  "scripts": {
+  
+    
+  "dev": "vite",
+  
+    
+  "build": "vite build",
+  
+    
+  "preview": "vite preview",
+  
+    
+  "deploy": "gh-pages -d dist"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "@supabase/supabase-js": "^2.84.0",
+  
+    
+  "framer-motion": "^12.23.24",
+  
+    
+  "leaflet": "^1.9.4",
+  
+    
+  "lucide-react": "^0.554.0",
+  
+    
+  "react": "^18.2.0",
+  
+    
+  "react-dom": "^18.2.0",
+  
+    
+  "react-leaflet": "^4.2.1"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@vitejs/plugin-react": "^4.2.0",
+  
+    
+  "gh-pages": "^6.3.0",
+  
+    
+  "typescript": "^5.0.0",
+  
+    
+  "vite": "^5.0.0"
+  
+  }
+}
